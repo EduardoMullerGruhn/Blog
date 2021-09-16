@@ -46,14 +46,14 @@ url = "https://www.linkedin.com/in/eduardomullergruhn/"
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://https://github.com/EduardoMullerGruhn/"
+url = "https://github.com/EduardoMullerGruhn/"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/eduardomullergruhn//"
+url = "https://www.instagram.com/eduardomullergruhn/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "eduardogruhn23@gmail.com"
+url = "mailto:eduardogruhn23@gmail.com"
