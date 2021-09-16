@@ -69,7 +69,7 @@ git submodule update --remote --merge
 title = "I'm Jane Doe"
 author = "Jane Doe"
 description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/pp.jpg"
 ```
 
 Please note that the title under the `[params]` only adjusts the page title in the sidebar. If you wish to adjust the HTML title (i.e. name of the tab), you will have to adjust the Hugo's title variable, as shown in the `config.toml`.
