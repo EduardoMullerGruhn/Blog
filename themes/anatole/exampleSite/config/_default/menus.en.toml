@@ -11,13 +11,13 @@
   url = "/post/"
 
   [[main]]
-  name = "Sobre"
+  name = "About"
   weight = 300
   identifier = "about"
   url = "/about/"
 
   [[main]]
-  name = "Contato"
+  name = "Contact"
   weight = 400
   identifier = "contact"
   url = "/contact/"
