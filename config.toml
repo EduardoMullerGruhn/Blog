@@ -8,6 +8,9 @@ enableEmoji = true
 enableRobotsTXT = true
 publishDir = "docs/"
 
+# runtime = "shiny"
+# output = "html_document"
+
 # Enable Disqus
 #disqusShortname = ""
 
