@@ -14,7 +14,12 @@
       
       <guid>https://eduardomullergruhn.github.io/blog/post/dashboard/</guid>
       
-        <description>&lt;p&gt;Nessa sessão vc poderá ter acesso a uma dasboard&lt;/p&gt;</description>
+        <description>
+&lt;script src=&#34;https://eduardomullergruhn.github.io/blog/blog/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Nessa sessão vc poderá ter acesso a uma dasboard&lt;/p&gt;
+</description>
       
     </item>
     
