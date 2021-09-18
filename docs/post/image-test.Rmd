@@ -11,3 +11,4 @@ thumbnail: images/Trigo.jpg
 title: Guia para agricultura digital
 ---
 
+Acompanhe esse blog para receber novidades sobre agricultura moderna.
