@@ -13,6 +13,6 @@ output: html_document
 ---
 
 
-Meu nome é Eduardo, sou agrônomo e minha carreira é focada no uso de dados para orientar decisões na agricultura. Eu realmente acredito no poder dos dados e das decisões baseadas em dados para ajudar a humanidade a lidar com as questões de segurança alimentar, aumentando a produção agrícola e melhorando a eficiência do uso de recursos, buscando sistemas agrícolas mais sustentáveis. A maior parte do meu trabalho é explorar opções para mesclar dados de sensoriamento remoto, modelagem de cultura e técnicas de aprendizado de máquina para expandir os limites da previsibilidade em sistemas agrícolas.
+Meu nome é Eduardo, sou agrônomo e minha carreira é focada no uso de dados para orientar decisões na agricultura. Eu confio no poder dos dados para a tomada de decisões  com finalidade de ajudar a humanidade a lidar com as questões de segurança alimentar pelo aumento da produção agrícola e melhoria da eficiência no uso de recursos, buscando sistemas agrícolas mais sustentáveis. A maior parte do meu trabalho é levantar informações e explorar opções para mesclar dados de sensoriamento remoto, modelagem de cultura e técnicas de aprendizado de máquina a fim de compreender melhor a dinâmica dos sistemas agrícolas.
 
 Acompanhe-me em [GitHub](https://github.com/EduardoMullerGruhn).

@@ -5,6 +5,13 @@ description: Uma breve apresentação de produto para Agricultura Digital
 series:
 - series-setup
 title: Painel de eficiência agronômica
+tags:
+- wheat
+- trigo
+- ndvi
+- fungicidas
+- ferrugem
+- pdi
 runtime: shiny
 output: html_document
 ---

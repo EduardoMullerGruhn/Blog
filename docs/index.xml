@@ -6,7 +6,7 @@
     <description>Recent content on bem-vindo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardomullergruhn.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardomullergruhn.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre mim</title>
       <link>https://eduardomullergruhn.github.io/blog/about/</link>
@@ -41,6 +41,17 @@
     </item>
     
     <item>
+      <title>Guia para agricultura digital</title>
+      <link>https://eduardomullergruhn.github.io/blog/post/image-test/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardomullergruhn.github.io/blog/post/image-test/</guid>
+      
+        <description>Acompanhe esse blog para receber novidades sobre agricultura moderna.</description>
+      
+    </item>
+    
+    <item>
       <title>Painel de eficiência agronômica</title>
       <link>https://eduardomullergruhn.github.io/blog/post/dashboard/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
@@ -53,17 +64,6 @@
 
 &lt;p&gt;Nessa sessão vc poderá ter acesso a uma dasboard agronomica&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>Guia para agricultura digital</title>
-      <link>https://eduardomullergruhn.github.io/blog/post/image-test/</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardomullergruhn.github.io/blog/post/image-test/</guid>
-      
-        <description>Acompanhe esse blog para receber novidades sobre agricultura moderna.</description>
       
     </item>
     
