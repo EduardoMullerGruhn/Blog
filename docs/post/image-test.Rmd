@@ -1,12 +1,12 @@
 ---
 author: Hugo Authors
-date: "2019-03-04"
+date: "2021-08-04"
 description: Guide to Thumbnails in Hugo
 tags:
-- thumbnail
+- data
 - digitalag
 - crops
-- wheat
+
 thumbnail: images/Trigo.jpg
 title: Guia para agricultura digital
 ---
