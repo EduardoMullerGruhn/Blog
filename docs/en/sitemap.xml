@@ -46,6 +46,25 @@
     <loc>https://eduardomullergruhn.github.io/blog/series/series-setup/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://eduardomullergruhn.github.io/blog/post/image-test/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardomullergruhn.github.io/blog/tags/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://eduardomullergruhn.github.io/blog/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eduardomullergruhn.github.io/blog/tags/"
+                />
+  </url><url>
+    <loc>https://eduardomullergruhn.github.io/blog/tags/thumbnail/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eduardomullergruhn.github.io/blog/imprint/</loc>
   </url><url>
     <loc>https://eduardomullergruhn.github.io/blog/categories/</loc>
@@ -61,17 +80,5 @@
                 />
   </url><url>
     <loc>https://eduardomullergruhn.github.io/blog/tags/index/</loc>
-  </url><url>
-    <loc>https://eduardomullergruhn.github.io/blog/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://eduardomullergruhn.github.io/blog/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eduardomullergruhn.github.io/blog/tags/"
-                />
   </url>
 </urlset>
