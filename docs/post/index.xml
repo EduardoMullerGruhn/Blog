@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on bem-vindo</title>
-    <link>https://eduardomullergruhn.github.io/blog/post/</link>
+    <link>https://farmtips.netlify.app/post/</link>
     <description>Recent content in Posts on bem-vindo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardomullergruhn.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://farmtips.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guia para agricultura digital</title>
-      <link>https://eduardomullergruhn.github.io/blog/post/image-test/</link>
+      <link>https://farmtips.netlify.app/post/image-test/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://eduardomullergruhn.github.io/blog/post/image-test/</guid>
+      <guid>https://farmtips.netlify.app/post/image-test/</guid>
       
         <description>Acompanhe esse blog para receber novidades sobre agricultura moderna.</description>
       
@@ -20,13 +20,13 @@
     
     <item>
       <title>Painel de eficiência agronômica</title>
-      <link>https://eduardomullergruhn.github.io/blog/post/dashboard/</link>
+      <link>https://farmtips.netlify.app/post/dashboard/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://eduardomullergruhn.github.io/blog/post/dashboard/</guid>
+      <guid>https://farmtips.netlify.app/post/dashboard/</guid>
       
         <description>
-&lt;script src=&#34;https://eduardomullergruhn.github.io/blog/blog/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://farmtips.netlify.app/blog/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Nessa sessão vc poderá ter acesso a uma dasboard agronomica&lt;/p&gt;

@@ -2,28 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bem-vindo</title>
-    <link>https://eduardomullergruhn.github.io/blog/</link>
+    <link>https://farmtips.netlify.app/</link>
     <description>Recent content on bem-vindo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardomullergruhn.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sobre mim</title>
-      <link>https://eduardomullergruhn.github.io/blog/about/</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardomullergruhn.github.io/blog/about/</guid>
-      
-        <description>Meu nome é Eduardo, sou agrônomo e minha carreira é focada no uso de dados para orientar decisões na agricultura.</description>
-      
-    </item>
-    
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://farmtips.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contato</title>
-      <link>https://eduardomullergruhn.github.io/blog/contact/</link>
+      <link>https://farmtips.netlify.app/contact/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://eduardomullergruhn.github.io/blog/contact/</guid>
+      <guid>https://farmtips.netlify.app/contact/</guid>
       
         <description></description>
       
@@ -31,10 +20,10 @@
     
     <item>
       <title></title>
-      <link>https://eduardomullergruhn.github.io/blog/archives/</link>
+      <link>https://farmtips.netlify.app/archives/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://eduardomullergruhn.github.io/blog/archives/</guid>
+      <guid>https://farmtips.netlify.app/archives/</guid>
       
         <description></description>
       
@@ -42,10 +31,10 @@
     
     <item>
       <title>Guia para agricultura digital</title>
-      <link>https://eduardomullergruhn.github.io/blog/post/image-test/</link>
+      <link>https://farmtips.netlify.app/post/image-test/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://eduardomullergruhn.github.io/blog/post/image-test/</guid>
+      <guid>https://farmtips.netlify.app/post/image-test/</guid>
       
         <description>Acompanhe esse blog para receber novidades sobre agricultura moderna.</description>
       
@@ -53,13 +42,13 @@
     
     <item>
       <title>Painel de eficiência agronômica</title>
-      <link>https://eduardomullergruhn.github.io/blog/post/dashboard/</link>
+      <link>https://farmtips.netlify.app/post/dashboard/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://eduardomullergruhn.github.io/blog/post/dashboard/</guid>
+      <guid>https://farmtips.netlify.app/post/dashboard/</guid>
       
         <description>
-&lt;script src=&#34;https://eduardomullergruhn.github.io/blog/blog/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://farmtips.netlify.app/blog/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Nessa sessão vc poderá ter acesso a uma dasboard agronomica&lt;/p&gt;
@@ -69,10 +58,10 @@
     
     <item>
       <title></title>
-      <link>https://eduardomullergruhn.github.io/blog/imprint/</link>
+      <link>https://farmtips.netlify.app/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eduardomullergruhn.github.io/blog/imprint/</guid>
+      <guid>https://farmtips.netlify.app/imprint/</guid>
       
         <description></description>
       
